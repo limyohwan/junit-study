@@ -1,13 +1,13 @@
-package com.yohwan.junitwithjava;
+package com.yohwan.junitstudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JunitwithjavaApplication {
+public class JunitstudyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JunitwithjavaApplication.class, args);
+		SpringApplication.run(JunitstudyApplication.class, args);
 	}
 
 }

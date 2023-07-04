@@ -1,9 +1,8 @@
-package com.yohwan.junitwithjava.chater01;
+package com.yohwan.junitstudy.chater01;
 
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 class ScoreCollectionTest {
     @Test

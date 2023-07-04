@@ -1,10 +1,10 @@
-package com.yohwan.junitwithjava;
+package com.yohwan.junitstudy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JunitwithjavaApplicationTests {
+class JunitstudyApplicationTests {
 
 	@Test
 	void contextLoads() {
