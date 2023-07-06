@@ -1,4 +1,4 @@
-package com.yohwan.junitstudy.chater01;
+package com.yohwan.junitstudy.example;
 
 @FunctionalInterface
 public interface Scoreable {
